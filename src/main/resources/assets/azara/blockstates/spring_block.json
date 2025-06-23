@@ -1,0 +1,6 @@
+{
+  "variants": {
+    "powered=true": { "model": "azara:block/spring_block_powered" },
+    "powered=false": { "model": "azara:block/spring_block" }
+  }
+}

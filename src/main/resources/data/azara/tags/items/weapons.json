@@ -1,0 +1,8 @@
+{
+  "replace": false,
+  "values": [
+    "azara:bloom_sword",
+    "azara:rage_sword",
+    "#azara:long_swords"
+  ]
+}

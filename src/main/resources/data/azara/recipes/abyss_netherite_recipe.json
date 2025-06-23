@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "minecraft:netherite_ingot"
+    },
+    {
+      "item": "azara:abyss_dust"
+    }
+  ],
+  "result": {
+    "item": "azara:abyss_netherite",
+    "count": 1
+  }
+}

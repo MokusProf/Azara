@@ -1,0 +1,44 @@
+{
+	"schemaVersion": 1,
+	"id": "azara",
+	"version": "${version}",
+	"name": "Azara",
+	"description": "Mokus lore mod cause my fucking god i made this description at least 5 fucking times",
+	"authors": [
+		"Mokus, eyalego, AzazelHUN"
+	],
+	"contact": {
+		"homepage": "https://fabricmc.net/",
+		"sources": "https://github.com/FabricMC/fabric-example-mod"
+	},
+	"license": "CC0-1.0",
+	"icon": "assets/azara/icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+			"net.mokus.azara.Azara"
+		],
+		"client": [
+			"net.mokus.azara.AzaraClient"
+		],
+		"fabric-datagen": [
+			"net.mokus.azara.AzaraDataGenerator"
+		]
+	},
+	"mixins": [
+		"azara.mixins.json"
+	],
+	"custom": {
+		"loadShaders": true
+	},
+	"depends": {
+		"fabricloader": ">=0.16.14",
+		"minecraft": "~1.20.1",
+		"java": ">=17",
+		"fabric-api": "*",
+		"reach-entity-attributes": "*"
+	},
+	"suggests": {
+		"another-mod": "*"
+	}
+}

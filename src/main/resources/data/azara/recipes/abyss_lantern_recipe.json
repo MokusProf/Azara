@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    " # ",
+    "KFK",
+    " # "
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:purple_dye"
+    },
+    "F": {
+      "item": "minecraft:glowstone"
+    },
+    "K": {
+      "item": "minecraft:quartz"
+    }
+  },
+  "result": {
+    "item": "azara:abyss_lantern"
+  }
+}

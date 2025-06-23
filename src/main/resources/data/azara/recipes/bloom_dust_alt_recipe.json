@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "XKX",
+    "KFK",
+    "XKX"
+  ],
+  "key": {
+    "F": {
+      "item": "azara:vir_petals"
+    },
+    "K": {
+      "item": "minecraft:sugar"
+    },
+    "X": {
+      "item": "minecraft:redstone"
+    }
+  },
+  "result": {
+    "item": "azara:bloom_dust"
+  }
+}

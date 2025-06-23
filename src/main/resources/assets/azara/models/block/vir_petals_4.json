@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/flowerbed_4",
+  "textures": {
+    "flowerbed": "azara:block/vir_petals",
+    "stem": "azara:block/vir_petals_stem"
+  }
+}

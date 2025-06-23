@@ -1,0 +1,12 @@
+{
+  "replace": false,
+  "values": [
+    "minecraft:sea_lantern",
+    "azara:abyss_lantern",
+    "azara:red_lantern",
+    "azara:green_lantern",
+    "azara:blue_lantern",
+    "azara:yellow_lantern",
+    "azara:aqua_lantern"
+  ]
+}

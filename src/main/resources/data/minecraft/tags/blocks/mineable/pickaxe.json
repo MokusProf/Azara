@@ -1,0 +1,13 @@
+{
+  "replace": false,
+  "values": [
+    "azara:abyss_lantern",
+    "azara:blue_lantern",
+    "azara:aqua_lantern",
+    "azara:red_lantern",
+    "azara:yellow_lantern",
+    "azara:green_lantern",
+    "azara:bloom_block",
+    "azara:adv_bloom_block"
+  ]
+}

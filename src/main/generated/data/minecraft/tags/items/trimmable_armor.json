@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "azara:abyss_netherite_helmet",
+    "azara:abyss_netherite_chestplate",
+    "azara:abyss_netherite_leggings",
+    "azara:abyss_netherite_boots"
+  ]
+}

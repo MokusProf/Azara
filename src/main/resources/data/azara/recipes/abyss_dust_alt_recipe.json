@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "X#X",
+    "KFK",
+    "X#X"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:glowstone_dust"
+    },
+    "F": {
+      "item": "azara:abyss_petals"
+    },
+    "K": {
+      "item": "minecraft:sugar"
+    },
+    "X": {
+      "item": "minecraft:redstone"
+    }
+  },
+  "result": {
+    "item": "azara:abyss_dust"
+  }
+}

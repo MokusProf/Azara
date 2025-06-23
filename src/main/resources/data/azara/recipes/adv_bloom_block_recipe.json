@@ -1,0 +1,29 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "XKX",
+    "LFL",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:obsidian"
+    },
+    "F": {
+      "item": "minecraft:nether_star"
+    },
+    "X": {
+      "item": "minecraft:diamond"
+    },
+    "L": {
+      "item": "minecraft:glass"
+    },
+    "K": {
+      "item": "azara:bloom_dust"
+    }
+  },
+  "result": {
+    "item": "azara:adv_bloom_block"
+  }
+}

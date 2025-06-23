@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    " KK",
+    "#FK",
+    "X# "
+  ],
+  "key": {
+    "X": {
+      "item": "azara:bloom_sword"
+    },
+    "#": {
+      "item": "azara:bloom_dust"
+    },
+    "F": {
+      "item": "minecraft:iron_ingot"
+    },
+    "K": {
+      "item": "minecraft:diamond"
+    }
+  },
+  "result": {
+    "item": "azara:greater_bloom_sword"
+  }
+}

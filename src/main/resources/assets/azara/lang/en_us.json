@@ -1,0 +1,80 @@
+{
+  "item.azara.abyssal_sword": "§dAbyss Sword",
+  "item.azara.abyss_dust": "§dAbyss Dust",
+  "item.azara.bloom_sword": "§bBloom Sword",
+  "item.azara.bloom_sword.desc": "§9On use get Bloom for 5 seconds",
+  "item.azara.rage_sword": "§dRage Sword",
+  "item.azara.rage_sword.desc": "§9On use get Rage 2 for 5 seconds",
+  "item.azara.greater_rage_sword": "§dAbyss-Infused Rage Sword",
+  "item.azara.greater_rage_sword.desc": "§9Has 2 charges, on use get Rage for 5 seconds",
+  "item.azara.greater_bloom_sword": "§bGreater Bloom Sword",
+  "item.azara.greater_bloom_sword.desc": "§9Has 2 charges, on use get Bloom for 5 seconds",
+  "item.azara.bloom_dust": "§bBloom Dust",
+  "item.azara.azara_sword": "Azara",
+  "item.azara.abyss_netherite": "§dAbyss-Infused Netherite Ingot",
+
+  "item.azara.abyss_netherite_helmet": "§dAbyss-Infused Netherite Helmet",
+  "item.azara.abyss_netherite_chestplate": "§dAbyss-Infused Netherite Chestplate",
+  "item.azara.abyss_netherite_leggings": "§dAbyss-Infused Netherite Leggings",
+  "item.azara.abyss_netherite_boots": "§dAbyss-Infused Netherite Boots",
+
+  "item.minecraft.potion.effect.bloom_potion": "Potion of Bloom",
+  "item.minecraft.splash_potion.effect.bloom_potion": "Splash Potion of Bloom",
+  "item.minecraft.lingering_potion.effect.bloom_potion": "Lingering Potion of Bloom",
+  "item.minecraft.tipped_arrow.effect.bloom_potion": "Arrow of Bloom",
+
+  "item.minecraft.potion.effect.abyss_potion": "Potion of Abyss Sickness",
+  "item.minecraft.splash_potion.effect.abyss_potion": "Splash Potion of Abyss Sickness",
+  "item.minecraft.lingering_potion.effect.abyss_potion": "Lingering Potion of Abyss Sickness",
+  "item.minecraft.tipped_arrow.effect.abyss_potion": "Arrow of Abyss Sickness",
+
+  "item.minecraft.potion.effect.strong_levitation": "Potion of Levitation",
+  "item.minecraft.splash_potion.effect.strong_levitation": "Splash Potion of Levitation",
+  "item.minecraft.lingering_potion.effect.strong_levitation": "Lingering Potion of Levitation",
+  "item.minecraft.tipped_arrow.effect.strong_levitation": "Arrow of Levitation",
+
+  "item.minecraft.potion.effect.long_levitation": "Potion of Levitation",
+  "item.minecraft.splash_potion.effect.long_levitation": "Splash Potion of Levitation",
+  "item.minecraft.lingering_potion.effect.long_levitation": "Lingering Potion of Levitation",
+  "item.minecraft.tipped_arrow.effect.long_levitation": "Arrow of Levitation",
+
+  "item.azara.dtw.desc": "§7Charge up by attacking others",
+  "item.azara.aina.desc": "§7When the full armor set is worn get Rage effect.",
+
+
+  "block.azara.abyss_flower": "Abyss Flower",
+  "block.azara.abyss_petals": "Abyss Petals",
+  "block.azara.vir_flower": "Vir Flower",
+  "block.azara.vir_petals": "Vir Petals",
+  "block.azara.spring_flower": "Spring Flower",
+  "block.azara.compacted_flowers": "Compacted Flowers",
+
+  "block.azara.blue_lantern": "Blu Lantern",
+  "block.azara.red_lantern": "Red Lantern",
+  "block.azara.yellow_lantern": "Yellow Lantern",
+  "block.azara.green_lantern": "Green Lantern",
+  "block.azara.aqua_lantern": "Cyan Lantern",
+  "block.azara.abyss_lantern": "Abyss Lantern",
+
+  "block.azara.abyss_planks": "Abyss Planks",
+  "block.azara.abyss_log": "Abyss Log",
+
+
+  "block.azara.abb.desc": "§7I wonder if this principal can be used with the other dust?",
+
+  "block.azara.redstone_lamp_on": "Lit Redstone Lamp",
+  "block.azara.spring_block": "Spring Block",
+  "block.azara.bloom_block": "Bloom Seeder Block",
+  "block.azara.adv_bloom_block": "Bloom Spreader Block",
+
+
+
+  "itemgroup.abyss": "Azara",
+
+  "effect.azara.abyss": "Abyss Sickness",
+  "effect.azara.bloom": "Bloom",
+  "effect.azara.rage": "Rage",
+
+  "sounds.azara.boing": "Boing"
+
+}

@@ -1,0 +1,12 @@
+{
+  "parent": "item/handheld",
+  "textures": {
+    "layer0": "azara:item/greater_bloom_sword"
+  },
+  "overrides": [
+    {"predicate": { "custom_model_data": 1 }, "model": "azara:item/bs_folly_ver"},
+    {"predicate": { "custom_model_data": 2 }, "model": "azara:item/bs_arasaka_ver"},
+    {"predicate": { "custom_model_data": 3 }, "model": "azara:item/count_dooku"},
+    {"predicate": { "custom_model_data": 4 }, "model": "azara:item/bs_bat_ver"}
+  ]
+}
